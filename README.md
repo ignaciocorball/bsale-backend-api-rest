@@ -51,10 +51,10 @@ Bsale-backend-api-rest
 
 ## API
 
-#### /api/v1/products
+#### /products
 * `GET` : Get all products
 
-#### /api/v1/categories
+#### /categories
 * `GET` : Get all categories
 
 ## Todo
