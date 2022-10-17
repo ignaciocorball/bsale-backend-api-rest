@@ -13,10 +13,10 @@ Before running API server, you should set the database config with yours or set 
 ```javascript
 const config = {
     db: {
-      host: "mdb-test.c6vunyturrl6.us-west-1.rds.amazonaws.com",
-      user: "bsale_test",
-      password: "bsale_test",
-      database: "bsale_test",
+      host: "test.c6v2un4ytu1rrl6.us-west-1.rds.amazonaws.com",
+      user: "test",
+      password: "test",
+      database: "test",
     },
     limitPerPage: 999, // Can modify this value in the request
 };
