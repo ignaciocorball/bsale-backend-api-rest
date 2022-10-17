@@ -57,6 +57,9 @@ Bsale-backend-api-rest
 #### /categories
 * `GET` : Get all categories
 
+### Json Object Result
+<img style="width:100%" src="https://i.imgur.com/Qq94VhD.png"></img>
+
 ## Todo
 
 - [x] Support basic REST APIs.
